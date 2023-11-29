@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 50px;
+}
+.note{
+    font-size: 25px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+#name_of_the_object{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
